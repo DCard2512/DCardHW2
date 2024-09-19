@@ -85,6 +85,7 @@ public class ScrabbleApp {
 	
 	/*This method is called when the generateBtn is called which calls the buildScrabble method 
 	to build the output text panel. */
+	
 	private void outputBtn() {
 		generateBtn.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
